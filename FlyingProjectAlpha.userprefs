@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\FlyingController\Scripts\FlyingCharacterMotor.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\FlyingController\Scripts\FlyingCharacterMotor.js" Line="223" Column="29" />
+      <File FileName="Assets\Standard Assets\FlyingController\Scripts\FlyingCharacterMotorRB.js" Line="31" Column="50" />
+      <File FileName="Assets\Standard Assets\FlyingController\Scripts\MouseLookFlying.js" Line="30" Column="19" />
+      <File FileName="Assets\Standard Assets\FlyingController\Scripts\FlyingInputController.js" Line="37" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js" Line="5" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
